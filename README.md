@@ -9,7 +9,7 @@ Follow below guide to run the app in your local machine
 
 1. **Clone the repository**:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Abhishek6890/lseg-quiz-app.git
    ```
 2. **cd into the folder**:
    ```bash
