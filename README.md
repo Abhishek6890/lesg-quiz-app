@@ -22,4 +22,5 @@ Follow below guide to run the app in your local machine
 4. **Start the application**:
    ```bash
    npm start
-  ```
+   ```
+Open `http://localhost:3000` in a browser.
