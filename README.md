@@ -1,5 +1,7 @@
 # Lseg Quiz App
 
+This app is built using reactjs
+
 Follow below guide to run the app in your local machine
 
 ## Requirements
